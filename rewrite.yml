@@ -1,0 +1,8 @@
+---
+type: specs.openrewrite.org/v1beta/recipe
+name: com.yourorg.UpdateGradleWrapperExample
+displayName: Update Gradle wrapper example
+recipeList:
+  - org.openrewrite.gradle.UpdateGradleWrapper:
+      version: 7.x
+      distribution: null
