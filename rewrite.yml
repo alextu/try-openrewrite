@@ -4,5 +4,5 @@ name: com.yourorg.UpdateGradleWrapperExample
 displayName: Update Gradle wrapper example
 recipeList:
   - org.openrewrite.gradle.UpdateGradleWrapper:
-      version: 7.x
+      version: 7.5.x
       distribution: null
